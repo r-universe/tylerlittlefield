@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lisa"]
+	path = lisa
+	url = https://github.com/tylerlittlefield/lisa
+	shallow = true
+	registered = true
+[submodule "vov"]
+	path = vov
+	url = https://github.com/tylerlittlefield/vov
+	shallow = true
+	registered = true
